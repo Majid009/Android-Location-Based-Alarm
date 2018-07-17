@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_set_alarm">SetAlarm</string>
+</resources>
